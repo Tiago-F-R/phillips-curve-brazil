@@ -97,6 +97,7 @@ scipy
 
 ## Author
 
-**Tiago Ferreira Rodrigues**
-B.Sc. Economics — FGV EPGE
-[linkedin.com/in/tiago-f-rodrigues](https://linkedin.com/in/tiago-f-rodrigues)
+**Tiago Ferreira Rodrigues**  
+B.Sc. Economics · FGV EPGE  
+[linkedin.com/in/tiago-f-rodrigues](https://linkedin.com/in/tiago-f-rodrigues) · [github.com/Tiago-F-R](https://github.com/Tiago-F-R)
+
