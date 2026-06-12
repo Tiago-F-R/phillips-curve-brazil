@@ -1,4 +1,4 @@
-# The Phillips Curve in Brazil 🇧🇷
+# The Phillips Curve in Brazil 
 
 **An automated empirical analysis of the inflation–unemployment tradeoff**, using
 official time series pulled directly from the Central Bank of Brazil's API.
